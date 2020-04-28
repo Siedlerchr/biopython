@@ -18,35 +18,35 @@
 <!ENTITY % ent-mmlextra
                         PUBLIC
 "-//W3C//ENTITIES Extra for MathML 3.0//EN" 
-"mathml/mmlextra.ent"                                                >
+"mmlextra.ent"                                                >
 
 
 <!--                    MATHML 3.0 ALIASES                         -->
 <!ENTITY % ent-mmlalias
                         PUBLIC
 "-//W3C//ENTITIES Aliases for MathML 3.0//EN" 
-"mathml/mmlalias.ent"                                                >
+"mmlalias.ent"                                                >
 
 <!--                    NAMED CHARACTERS                           -->
-<!ENTITY % isobox PUBLIC "-//W3C//ENTITIES Box and Line Drawing//EN" "iso8879/isobox.ent">
-<!ENTITY % isocyr1 PUBLIC "-//W3C//ENTITIES Russian Cyrillic//EN" "iso8879/isocyr1.ent">
-<!ENTITY % isocyr2 PUBLIC "-//W3C//ENTITIES Non-Russian Cyrillic//EN" "iso8879/isocyr2.ent">
-<!ENTITY % isodia PUBLIC "-//W3C//ENTITIES Diacritical Marks//EN" "iso8879/isodia.ent">
-<!ENTITY % isolat1 PUBLIC "-//W3C//ENTITIES Added Latin 1//EN" "iso8879/isolat1.ent">
-<!ENTITY % isolat2 PUBLIC "-//W3C//ENTITIES Added Latin 2//EN" "iso8879/isolat2.ent">
-<!ENTITY % isonum PUBLIC "-//W3C//ENTITIES Numeric and Special Graphic//EN" "iso8879/isonum.ent">
+<!ENTITY % isobox PUBLIC "-//W3C//ENTITIES Box and Line Drawing//EN" "isobox.ent">
+<!ENTITY % isocyr1 PUBLIC "-//W3C//ENTITIES Russian Cyrillic//EN" "isocyr1.ent">
+<!ENTITY % isocyr2 PUBLIC "-//W3C//ENTITIES Non-Russian Cyrillic//EN" "isocyr2.ent">
+<!ENTITY % isodia PUBLIC "-//W3C//ENTITIES Diacritical Marks//EN" "isodia.ent">
+<!ENTITY % isolat1 PUBLIC "-//W3C//ENTITIES Added Latin 1//EN" "isolat1.ent">
+<!ENTITY % isolat2 PUBLIC "-//W3C//ENTITIES Added Latin 2//EN" "isolat2.ent">
+<!ENTITY % isonum PUBLIC "-//W3C//ENTITIES Numeric and Special Graphic//EN" "isonum.ent">
 <!ENTITY % isopub PUBLIC "-//W3C//ENTITIES Publishing//EN" "iso8879/isopub.ent">
-<!ENTITY % isoamsa PUBLIC "-//W3C//ENTITIES Added Math Symbols: Arrow Relations//EN" "iso9573-13/isoamsa.ent">
-<!ENTITY % isoamsb PUBLIC "-//W3C//ENTITIES Added Math Symbols: Binary Operators//EN" "iso9573-13/isoamsb.ent">
-<!ENTITY % isoamsc PUBLIC "-//W3C//ENTITIES Added Math Symbols: Delimiters//EN" "iso9573-13/isoamsc.ent">
-<!ENTITY % isoamsn PUBLIC "-//W3C//ENTITIES Added Math Symbols: Negated Relations//EN" "iso9573-13/isoamsn.ent">
-<!ENTITY % isoamso PUBLIC "-//W3C//ENTITIES Added Math Symbols: Ordinary//EN" "iso9573-13/isoamso.ent">
-<!ENTITY % isoamsr PUBLIC "-//W3C//ENTITIES Added Math Symbols: Relations//EN" "iso9573-13/isoamsr.ent">
-<!ENTITY % isogrk3 PUBLIC "-//W3C//ENTITIES Greek Symbols//EN" "iso9573-13/isogrk3.ent">
-<!ENTITY % isomfrk PUBLIC "-//W3C//ENTITIES Math Alphabets: Fraktur//EN" "iso9573-13/isomfrk.ent">
-<!ENTITY % isomopf PUBLIC "-//W3C//ENTITIES Math Alphabets: Open Face//EN" "iso9573-13/isomopf.ent">
-<!ENTITY % isomscr PUBLIC "-//W3C//ENTITIES Math Alphabets: Script//EN" "iso9573-13/isomscr.ent">
-<!ENTITY % isotech PUBLIC "-//W3C//ENTITIES General Technical//EN" "iso9573-13/isotech.ent">
+<!ENTITY % isoamsa PUBLIC "-//W3C//ENTITIES Added Math Symbols: Arrow Relations//EN" "isoamsa.ent">
+<!ENTITY % isoamsb PUBLIC "-//W3C//ENTITIES Added Math Symbols: Binary Operators//EN" "isoamsb.ent">
+<!ENTITY % isoamsc PUBLIC "-//W3C//ENTITIES Added Math Symbols: Delimiters//EN" "isoamsc.ent">
+<!ENTITY % isoamsn PUBLIC "-//W3C//ENTITIES Added Math Symbols: Negated Relations//EN" "isoamsn.ent">
+<!ENTITY % isoamso PUBLIC "-//W3C//ENTITIES Added Math Symbols: Ordinary//EN" "isoamso.ent">
+<!ENTITY % isoamsr PUBLIC "-//W3C//ENTITIES Added Math Symbols: Relations//EN" "isoamsr.ent">
+<!ENTITY % isogrk3 PUBLIC "-//W3C//ENTITIES Greek Symbols//EN" "isogrk3.ent">
+<!ENTITY % isomfrk PUBLIC "-//W3C//ENTITIES Math Alphabets: Fraktur//EN" "isomfrk.ent">
+<!ENTITY % isomopf PUBLIC "-//W3C//ENTITIES Math Alphabets: Open Face//EN" "isomopf.ent">
+<!ENTITY % isomscr PUBLIC "-//W3C//ENTITIES Math Alphabets: Script//EN" "isomscr.ent">
+<!ENTITY % isotech PUBLIC "-//W3C//ENTITIES General Technical//EN" "isotech.ent">
 
 
 <!-- ============================================================= -->

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<xs:schema xmlns:xlink="uri:xlink" elementFormDefault="qualified" targetNamespace="uri:xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:attribute name="href" type="xs:string" />
+  <xs:attribute name="type" type="xs:string" />
+</xs:schema>
